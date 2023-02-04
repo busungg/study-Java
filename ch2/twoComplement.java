@@ -32,6 +32,7 @@ class twoComplement {
         
         String twoComplementStr = null;
         char[] twoComplementArray = new char[binaryString.length()];
+        /* 
         for(int i = oneComplementArray.length() - 1; i >= 0; i--) {
             if(oneComplementArray[i] + 1 == 2) {
                 oneComplementArray[i] = '0';
@@ -39,9 +40,6 @@ class twoComplement {
                 oneComplementArray[i] = '1';
             }
         }
-    }
-
-    public static String twoComplement(char[] oneComplementArray) {
-        
+        */
     }
 }
