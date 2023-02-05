@@ -1,4 +1,4 @@
-package ch12;
+package ch12.code;
 
 import java.util.ArrayList;
 
